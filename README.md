@@ -2,7 +2,7 @@
 # [Dear-Carmate 프로젝트 개발 보고서]  
 
 
-프로젝트명 : [Dear-Carmate 프로젝트  
+프로젝트명 : [Dear-Carmate 프로젝트]  
 
 팀명: 3팀  
 
